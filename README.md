@@ -1,6 +1,8 @@
 Chaordic Academy: Controlled Experiments
 =========
 
+[![Join the chat at https://gitter.im/chaordic/academy-controlled_experiments](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/chaordic/academy-controlled_experiments?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Coleção de scripts para o Módulo 'Estatística para Experimentos Controlados' da Academia Chaordic
 
 Requirements Ubuntu
